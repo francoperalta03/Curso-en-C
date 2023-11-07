@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-//ejers de la practca}
+//ejers de la practca
 
 int main () {
 //EJER 1
